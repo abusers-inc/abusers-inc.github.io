@@ -85,7 +85,7 @@ creds = ["login", "password"]
 ### Example
 `https://blur.io/collection/azuki`
 > Slug here is: `azuki`
-![Slug Illustration](blur_slug.png)
+![Slug Illustration](blurring_assets/blur_slug.png)
 
 ## Config Example
 [config.toml](blurring_assets/config.toml) <br/>
