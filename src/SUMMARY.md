@@ -1,3 +1,6 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[Maitainance Status](./maintainance.toml)
+[Common Options]()
+- [AutoBlur]()
+- [BlurRing](./blurring.md)
