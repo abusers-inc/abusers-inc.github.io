@@ -1,0 +1,13 @@
+slugs = ["cryptowomen"]
+[options]
+buy_sell_delay = [40_000, 80_000]
+between_cycle_delay = [40_000, 80_000]
+nft_update_interval = 500_000
+   
+[[accounts]]
+pk = "***************"
+impersonate = "chrome120"
+
+[[accounts]]
+pk = "***************"
+impersonate = "chrome119"
