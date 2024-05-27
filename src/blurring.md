@@ -1,5 +1,5 @@
 # BlurRing
-
+> **Status**: Patch-only
 ## Description
 Blur ring-seller abusing software. Works by listing and selling NFT's between one party owned accounts.
 As as result, points are farmed, but no money is lost.
