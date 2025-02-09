@@ -4,3 +4,4 @@
 - [AutoBlur]()
 - [BlurRing](./blurring.md)
 - [DepinBot](./depinbot.md)
+- [Invisible Hand](./invhand.md)
